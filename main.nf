@@ -74,7 +74,6 @@ process createTable2 {
 }
 
 
-
 workflow {
     
 
