@@ -1,7 +1,7 @@
 task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
-1	0f/2969e0	71579	preprocessMidus (1)	COMPLETED	0	2025-01-21 16:55:27.741	1.7s	2s	-	-	-	-	-
-2	e2/d3c4cb	71686	createTable2 (1)	COMPLETED	0	2025-01-21 16:55:29.902	1.1s	0ms	-	-	-	-	-
-4	cc/482b1c	71718	createTable1 (1)	COMPLETED	0	2025-01-21 16:55:30.113	1.8s	1s	-	-	-	-	-
-6	01/5151dd	71837	createTable1 (3)	COMPLETED	0	2025-01-21 16:55:31.125	1.8s	1s	-	-	-	-	-
-5	f7/8c9fce	71885	createTable1 (2)	COMPLETED	0	2025-01-21 16:55:31.979	1.8s	1s	-	-	-	-	-
-3	94/fee714	71998	plotFigure1 (1)	COMPLETED	0	2025-01-21 16:55:32.934	1.2s	1s	-	-	-	-	-
+1	e6/f216bd	68532	preprocessMidus (1)	COMPLETED	0	2025-01-21 22:10:39.790	18.1s	16s	111.8%	364.8 MB	1.7 GB	23.6 MB	131.7 KB
+4	f9/fc72ef	69306	createTable1 (1)	COMPLETED	0	2025-01-21 22:10:58.303	25.5s	23.2s	105.8%	181.6 MB	1.5 GB	18.2 MB	18.2 KB
+5	0d/54c8ec	69323	createTable1 (2)	COMPLETED	0	2025-01-21 22:10:58.424	25.5s	23.2s	103.7%	182.8 MB	1.5 GB	18.2 MB	18.2 KB
+3	d6/4282c9	70378	createTable2 (1)	COMPLETED	0	2025-01-21 22:11:24.025	13.2s	11s	109.4%	170.1 MB	1.5 GB	17 MB	18.1 KB
+6	95/efb175	70393	createTable1 (3)	COMPLETED	0	2025-01-21 22:11:24.130	25.6s	23.5s	104.5%	180.9 MB	1.5 GB	18.2 MB	18.2 KB
+2	1a/93d5e6	70955	plotFigure1 (1)	COMPLETED	0	2025-01-21 22:11:37.221	15.3s	12.9s	112.8%	199.1 MB	1.5 GB	16.5 MB	51.9 KB

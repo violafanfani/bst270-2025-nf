@@ -2,7 +2,7 @@
 
 library(dplyr)
 library(tidyverse)
-library(DT)
+#library(DT)
 
 # Get the directory of the current script
 args <- commandArgs(trailingOnly = FALSE)
